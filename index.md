@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Artifacts and Pages
+----
 
 ### Code Review
 - [Code Review Video](code-review.html)
