@@ -18,7 +18,7 @@ title: Home
 - Enhanced: placeholder
 - Narrative: placeholder
 
-### Databases: Reverse Engineered Client Management System (SQLite/C++)
+### Databases: Reverse-Engineered Client Management System (SQLite/C++)
 - Original: placeholder
 - Enhanced: placeholder
 - Narrative: placeholder
