@@ -5,10 +5,10 @@ title: Home
 
 # Artifacts and Pages
 
-## Code Review
+### Code Review
 - [Code Review Video](code-review.html)
 
-## Software Engineering and Design: Numeric Overflow Coding Activity C++
+### Software Engineering and Design: Numeric Overflow Coding Activity C++
 - Original: placeholder
   
 - Enhanced: placeholder
