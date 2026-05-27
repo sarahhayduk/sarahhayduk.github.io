@@ -12,7 +12,7 @@ title: Home
 ### Software Engineering and Design: Numeric Overflow Coding Activity (C++)
 - Original: placeholder
 - Enhanced: placeholder
-- Narrative: placeholder
+- [Enhancement One Narrative](https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link)
 
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 - Original: placeholder
