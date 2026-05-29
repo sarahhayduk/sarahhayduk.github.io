@@ -13,7 +13,7 @@ title: Home
 - Original: placeholder
 - Enhanced: placeholder
 - <a href="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link" target="_blank">Enhancement One Narrative</a>
-- <a href="en1-demo.html" target="_blank">Enhancement One Output Demo</a>
+- <a href="en1-demo.html" target="_blank">Enhancement One Demo Video</a>
 
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 - Original: placeholder
