@@ -7,12 +7,12 @@ title: Home
 ----
 
 ### Code Review
-- [Code Review Video](code-review.html)
+- <a href="code-review.html" target="_blank">Code Review Video</a>
 
 ### Software Engineering and Design: Numeric Overflow Coding Activity (C++)
 - Original: placeholder
 - Enhanced: placeholder
-- [Enhancement One Narrative](https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link)
+- <a href="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link" target="_blank">Enhancement One Narrative</a>
 
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 - Original: placeholder
