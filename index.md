@@ -10,8 +10,8 @@ title: Home
 - <a href="code-review.html" target="_blank">Code Review Video</a>
 
 ### Software Engineering and Design: Numeric Overflow Coding Activity (C++)
-- Original: placeholder
-- Enhanced: placeholder
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1/tree/main/original" target="_blank">Original Source Code (GitHub Repo)</a>
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1/tree/main/enhanced" target="_blank">Enhanced Source Code (GitHub Repo)</a>
 - <a href="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link" target="_blank">Enhancement One Narrative</a>
 - <a href="en1-demo.html" target="_blank">Enhancement One Demo Video</a>
 
