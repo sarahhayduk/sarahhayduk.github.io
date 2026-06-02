@@ -18,7 +18,8 @@ title: Home
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 - Original: placeholder
 - Enhanced: placeholder
-- Narrative: placeholder
+- <a href="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=drive_link" target="_blank">Enhancement Two Narrative</a>
+- <a href="en2-demo.html" target="_blank">Enhancement Two Demo Video</a>
 
 ### Databases: Reverse-Engineered Client Management System (SQLite/C++)
 - Original: placeholder
