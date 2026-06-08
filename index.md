@@ -23,7 +23,7 @@ title: Home
 - <a href="https://drive.google.com/file/d/1DdIFr2eanG4XO5VkCTr1OMYi4wZaQ7ve/view?usp=drive_link" target="_blank">📝 Enhancement Two Narrative</a>
 - <a href="en2-demo.html" target="_blank">🎥 Enhancement Two Demo Video</a>
 
-### Databases: Reverse-Engineered Client Management System (SQLite/C++)
+### Databases: Reverse-Engineered Service Client Management System (SQLite/C++)
 - Original: placeholder
 - Enhanced: placeholder
 - Narrative: placeholder
