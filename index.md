@@ -7,7 +7,7 @@ title: Home
 ----
 
 ### Code Review
-- <a href="code-review.html" target="_blank">Code Review Video</a>
+- <a href="code-review.html" target="_blank">Informal Code Review Video</a>
 
 ### Software Engineering and Design: Numeric Overflow Coding Activity (C++)
 ##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1" target="_blank">🔗 Full Repository (GitHub Repo)</a>
@@ -18,8 +18,8 @@ title: Home
 
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 ##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2" target="_blank">🔗 Full Repository (GitHub Repo)</a>
-- Original: placeholder
-- Enhanced: placeholder
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2/tree/main/original" target="_blank">Original Source Code</a>
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2/tree/main/enhanced" target="_blank">Enhanced Source Code</a>
 - <a href="https://drive.google.com/file/d/1DdIFr2eanG4XO5VkCTr1OMYi4wZaQ7ve/view?usp=drive_link" target="_blank">Enhancement Two Narrative</a>
 - <a href="en2-demo.html" target="_blank">Enhancement Two Demo Video</a>
 
