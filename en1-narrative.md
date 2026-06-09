@@ -8,6 +8,6 @@ title: Enhancement One Narrative
 <div style="text-align:center;">
   <iframe 
     src="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/preview"
-    style="width:100%; height:850px; border:none;">
+    style="width:100%; height:800px; border:none;">
   </iframe>
 </div>
