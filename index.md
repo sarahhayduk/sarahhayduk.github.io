@@ -27,14 +27,14 @@ title: Home
 ##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1" target="_blank">🔗 Full Repository (GitHub Repo)</a>
 - <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1/tree/main/original" target="_blank">Original Source Code</a>
 - <a href="https://github.com/sarahhayduk/CS-499-Enhancement-1/tree/main/enhanced" target="_blank">Enhanced Source Code</a>
-- <a href="en1-narrative.html" target="_blank">📝 Enhancement One Narrative</a>
+- <a href="https://drive.google.com/file/d/10xEfEkT4xZUtu9CDpO05nydnfi0QZgzo/view?usp=sharing" target="_blank">📝 Enhancement One Narrative</a>
 - <a href="en1-demo.html" target="_blank">🎥 Enhancement One Demo Video</a>
 
 ### Algorithms and Data Structures: Grazioso Salvare Rescue Dog Dashboard (MongoDB/Python/Dash)
 ##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2" target="_blank">🔗 Full Repository (GitHub Repo)</a>
 - <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2/tree/main/original" target="_blank">Original Source Code</a>
 - <a href="https://github.com/sarahhayduk/CS-499-Enhancement-2/tree/main/enhanced" target="_blank">Enhanced Source Code</a>
-- <a href="https://drive.google.com/file/d/1DdIFr2eanG4XO5VkCTr1OMYi4wZaQ7ve/view?usp=drive_link" target="_blank">📝 Enhancement Two Narrative</a>
+- <a href="https://drive.google.com/file/d/1DdIFr2eanG4XO5VkCTr1OMYi4wZaQ7ve/view?usp=sharing" target="_blank">📝 Enhancement Two Narrative</a>
 - <a href="en2-demo.html" target="_blank">🎥 Enhancement Two Demo Video</a>
 
 ### Databases: Reverse-Engineered Client Service Management System (SQLite/C++)
