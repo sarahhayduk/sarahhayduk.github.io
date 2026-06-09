@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Introduction
-----
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:30px;">
 
   <img src="/assets/img/me.JPG"
