@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+# Introduction
+----
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:30px;">
 
   <img src="/assets/img/me.JPG"
@@ -10,7 +12,7 @@ title: Home
        style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
 
   <div>
-    <p>Hi, I’m Sarah: a software engineer with experience in C++, Python, secure coding, and backend systems. This ePortfolio highlights the capstone enhancements I completed at SNHU, demonstrating my skills in software engineering, algorithms & data structures, and database design.</p>
+    <p><b>Hi, I’m Sarah: a Software Engineer specializing in C++, Python, secure coding, and backend system development. This ePortfolio highlights the capstone enhancements I completed at SNHU, demonstrating my skills in software engineering, algorithms & data structures, and database design.</b></p>
 
     <p>Read the full Professional Self‑Assessment: Placeholder</p>
   </div>
