@@ -40,8 +40,8 @@ title: Home
 ### Databases: Reverse-Engineered Client Service Management System (SQLite/C++)
 - Original: placeholder
 - Enhanced: placeholder
-- Narrative: placeholder
-- Demo Video: placeholder
+- <a href="https://drive.google.com/file/d/1P2oDeqTTZuZe7xO3V3MJkEos3p9V8hcP/view?usp=sharing" target="_blank">📝 Enhancement Three Narrative</a>
+- <a href="en3-demo.html" target="_blank">🎥 Enhancement Three Demo Video</a>
 
 ---
 This site is using Jekyll theme: slate
