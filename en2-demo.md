@@ -14,7 +14,7 @@ title: Enhancement Two Demo
   </iframe>
 </div>
 
-### Description
+#### Description
 This enhancement adds a dual‑mode breed‑matching algorithm to the Grazioso Salvare Dashboard, enabling both strict anchored regex filtering and expanded mixed‑breed matching for more accurate results.
 
 It also includes a full migration from Jupyter Notebook to a standalone Python/Dash application, resolving rendering issues and ensuring stable execution. The dashboard now integrates MongoDB queries, Dash UI components, and persistent state management to deliver smoother interactions and more reliable data‑driven behavior.
