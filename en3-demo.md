@@ -15,4 +15,6 @@ title: Enhancement Three Demo
 </div>
 
 #### Description
-This enhancement replaced all hardcoded client and password data with a securely seeded SQLite database using the SQLite amalgamation files. The system now loads the stored hash and salt for authentication, initializes its schema automatically, and runs the external seed.sql file only on first use. These changes ensure sensitive information is never embedded in the executable and cannot be exposed through reverse engineering. The walkthrough shows the finalized program output using correct paths and focuses on the completed workflow rather than error‑handling routines.
+This enhancement replaces all hardcoded client and password values with a fully seeded SQLite database. The system now uses stored password hashes and salts for authentication, initializes its schema automatically, and loads initial data through an external seed.sql file on first use.
+
+It also introduces a more modular code structure, defensive error silencing through internal logging, and automated memory cleanup to ensure stable, predictable execution. These changes remove all sensitive literals from the executable and prevent exposure through reverse engineering. The demo focuses on the finalized workflow and shows the program running with correct paths and expected output.
