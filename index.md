@@ -38,6 +38,7 @@ title: Home
 - <a href="en2-demo.html" target="_blank">🎥 Enhancement Two Demo Video</a>
 
 ### Databases: Reverse-Engineered Client Service Management System (SQLite/C++)
+##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-3" target="_blank">🔗 Full Repository (GitHub Repo)</a>
 - Original: placeholder
 - Enhanced: placeholder
 - <a href="en3-narrative.html" target="_blank">📝 Enhancement Three Narrative</a>
