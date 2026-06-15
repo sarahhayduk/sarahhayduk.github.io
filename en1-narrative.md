@@ -3,8 +3,8 @@ layout: default
 title: Enhancement One Narrative
 ---
 
-# Enhancement One: Software Engineering and Design Narrative
-## Numeric Overflow Coding Activity (C++)
+# Enhancement One Narrative
+## Software Engineering and Design: Numeric Overflow Coding Activity (C++)
 
 This Numeric Overflow Coding Activity comes from CS 405 Secure Coding. The program was designed to detect that an overflow or underflow occurred, prevent it, and return the last safe value. The original implementation included only basic arithmetic functions in C++, a monolithic structure, and partial protections for numeric overflow and underflow. To address these limitations, I refactored the logic into a dedicated *SafeArithmetic.h* module that encapsulates all overflow and underflow detection across addition, subtraction, multiplication, and division. This allowed me to separate the computational engine from the testing and output logic, improving clarity and maintainability. In the original version, the logic for addition and subtraction was embedded directly in the main source file, and multiplication and division were not protected at all. By moving all arithmetic into a reusable component and expanding the coverage to all four operations, the enhancement transformed the assignment into a more complete and realistic systems-level module.
 
