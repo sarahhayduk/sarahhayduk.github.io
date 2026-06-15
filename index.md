@@ -40,7 +40,7 @@ title: Home
 ### Databases: Reverse-Engineered Client Service Management System (SQLite/C++)
 - Original: placeholder
 - Enhanced: placeholder
-- <a href="em3-narrative.html" target="_blank">📝 Enhancement Three Narrative</a>
+- <a href="en3-narrative.html" target="_blank">📝 Enhancement Three Narrative</a>
 - <a href="en3-demo.html" target="_blank">🎥 Enhancement Three Demo Video</a>
 
 ---
