@@ -39,8 +39,8 @@ title: Home
 
 ### Databases: Reverse-Engineered Client Service Management System (SQLite/C++)
 ##### <a href="https://github.com/sarahhayduk/CS-499-Enhancement-3" target="_blank">🔗 Full Repository (GitHub Repo)</a>
-- Original: placeholder
-- Enhanced: placeholder
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-3/tree/main/original" target="_blank">Original Source Code</a>
+- <a href="https://github.com/sarahhayduk/CS-499-Enhancement-3/tree/main/enhanced" target="_blank">Enhanced Source Code</a>
 - <a href="en3-narrative.html" target="_blank">📝 Enhancement Three Narrative</a>
 - <a href="en3-demo.html" target="_blank">🎥 Enhancement Three Demo Video</a>
 
