@@ -10,7 +10,7 @@ title: Home
        style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
 
   <div>
-    <p>Hi, I’m Sarah: a Software Engineer specializing in C++, Python, secure coding, and backend system development. This ePortfolio highlights the capstone enhancements I completed at SNHU, demonstrating my skills in software engineering & design, algorithms & data structures, and databases.</p>
+    <p>Hi, I’m Sarah: a Software Engineer specializing in C++, Python, secure coding, and backend system development. This ePortfolio highlights the capstone enhancements I completed at SNHU, demonstrating my skills in Software Engineering & Design, Algorithms & Data structures, and Databases.</p>
 
     <p><a href="self-assessment.html" target="_blank" style="font-weight:600;">📘 Read the full Professional Self‑Assessment</a></p>
   </div>
